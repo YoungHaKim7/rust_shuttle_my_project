@@ -51,3 +51,27 @@ https://github.com/shuttle-hq/shuttle/issues/720
 https://youtu.be/4KtotxNAwME
 
 <hr>
+
+# Test
+
+```
+curl -v localhost:8000                                                                                                       ─╯
+
+*   Trying ::1:8000...
+* connect to ::1 port 8000 failed: Connection refused
+*   Trying 127.0.0.1:8000...
+* Connected to localhost (127.0.0.1) port 8000 (#0)
+> GET / HTTP/1.1
+> Host: localhost:8000
+> User-Agent: curl/7.76.1
+> Accept: */*
+>
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< content-length: 12
+< content-type: text/plain; charset=utf-8
+< date: Sat, 22 Jul 2023 14:02:45 GMT
+<
+* Connection #0 to host localhost left intact
+Hello World!#
+```
