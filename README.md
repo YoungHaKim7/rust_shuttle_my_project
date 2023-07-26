@@ -1,7 +1,7 @@
 # rust_shuttle_my_project
 
 
-# Rocky Linux 9 설치 에러에서 해결한 명령어
+# Rocky Linux 9 설치 에러에서 해결한 명령어(해결은 아님--)
 
 ```
 cargo install cargo-shuttle --features vendored-openssl
@@ -9,7 +9,8 @@ cargo install cargo-shuttle --features vendored-openssl
 
 https://github.com/shuttle-hq/shuttle/issues/720
 
-
+- 결국 버그남 버그 보고했음 ㅠㅠ
+  - https://github.com/shuttle-hq/shuttle/issues
 
 
 # FullStack Rust
