@@ -80,6 +80,8 @@ Hello World!#
 - PostgreSQL
   - PostgreSQL 14 Internal 최종본 (postgrespro.com) https://news.hada.io/topic?id=9864&utm_source=weekly&utm_medium=email&utm_campaign=202330
     - https://postgrespro.com/blog/pgsql/5969985
+      - Learn PostgreSQL Tutorial - Full Course for Beginners
+        - https://youtu.be/qw--VYLpxG4
 
 - SurrealDB
   - 소개 https://djlee118.tistory.com/609
