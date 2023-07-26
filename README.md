@@ -81,3 +81,4 @@ Hello World!#
 
 - SurrealDB
   - 소개 https://djlee118.tistory.com/609
+  - Rust Powered Database SurrealDB (It's Pretty Ambitious) https://youtu.be/DPQbuW9dQ7w
