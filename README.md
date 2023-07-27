@@ -26,6 +26,7 @@ https://github.com/shuttle-hq/shuttle/issues/720
   - Learn Tailwind CSS – Course for Beginners | freeCodeCamp.org
     - https://youtu.be/ft30zcMlFao
 
+
 ## Deploy(Rust)
 
 - https://www.shuttle.rs/
@@ -37,6 +38,9 @@ https://github.com/shuttle-hq/shuttle/issues/720
       - https://www.youtube.com/live/DCpILwGas-M?feature=share
       - github https://github.com/BcnRust/devbcn-workshop-dryrun
       - eBook https://bcnrust.github.io/devbcn-workshop/
+
+- Deploy your Rust project in 20 minutes | Let's Get Rusty
+  - https://youtu.be/_gMzg77Qjm0
 
 <hr>
 
